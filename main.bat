@@ -1,7 +1,7 @@
 @echo off & setlocal
 color fc
-set n=0
-set n=1
 goto Main
 
 :Main
+cls
+set method=(%random%*10/32768)+1
