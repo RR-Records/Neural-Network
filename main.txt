@@ -34,3 +34,6 @@ manipulate known to make things correct
 #####
 
 Tables; 10 lines of knowledge
+
+$$$$$
+take inputs +add them together
