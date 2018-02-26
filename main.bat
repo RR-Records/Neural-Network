@@ -30,3 +30,11 @@ set /a dend2=%dend2%/%gain%
 ###output
 set /a output=%dend0%=%dend1%+%dend2%/3
 echo %output%
+goto Int
+
+:Int
+set /a t1=%output%
+set /a t2=%output%
+set /a t3=%output%
+set /a t4=%output%
+set /a t5=%output%
